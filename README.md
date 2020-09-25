@@ -1,0 +1,2 @@
+# phputils
+Classes PHP utilitárias
