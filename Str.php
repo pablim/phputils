@@ -1,6 +1,6 @@
 <?php
 
-namespace utils;
+namespace phputils;
 
 use DateTime;
 use \ReflectionException;

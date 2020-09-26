@@ -5,7 +5,7 @@ namespace utils;
 use DateTime;
 use \ReflectionException;
 
-class Misc {
+class phputils {
 
 	static function response($status, $msgs=[], $results=[]) {
 		$jsonText = json_encode([
