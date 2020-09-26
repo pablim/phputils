@@ -1,0 +1,7 @@
+{
+    "name": "pablovf/phputils",
+    "description": "A set of utils classes for PHP",
+    "require": {
+        "php": "^7.2"
+    }
+}
