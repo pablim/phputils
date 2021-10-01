@@ -1,8 +1,15 @@
 {
     "name": "pablovf/phputils",
     "description": "A set of utils classes for PHP",
+    "keywords": ["my package", "composer", "package"], 
+    "authors": [ 
+        { "name": "Pablo", "email": "vazsk8@gmail.com" } 
+    ],
     "require": {
         "php": "^7.0",
-        "pablovf/phputils": "0.1.1"
+        "phpunit/phpunit": "^9.5"
+    },
+    "autoload": {
+        "psr-4": { "pablovf\\phputils\\": "src/" }
     }
 }

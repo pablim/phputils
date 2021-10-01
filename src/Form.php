@@ -1,6 +1,6 @@
 <?php
 
-namespace phputils;
+namespace pablovf\phputils;
 
 class Form {
 

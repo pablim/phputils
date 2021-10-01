@@ -1,6 +1,6 @@
 <?php
 
-namespace utils;
+namespace pablovf\phputils;
 
 use DateTime;
 use \ReflectionException;
