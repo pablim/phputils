@@ -6,7 +6,7 @@
         { "name": "Pablo", "email": "vazsk8@gmail.com" } 
     ],
     "require": {
-        "php": "^7.0",
+        "php": "^8.0",
         "phpunit/phpunit": "^9.5"
     },
     "autoload": {
